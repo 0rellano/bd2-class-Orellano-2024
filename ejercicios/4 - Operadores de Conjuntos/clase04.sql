@@ -50,4 +50,3 @@ JOIN store s ON s.store_id = i.store_id
 join staff st ON st.staff_id = s.manager_staff_id  
 WHERE s.store_id = 2;
 
-
